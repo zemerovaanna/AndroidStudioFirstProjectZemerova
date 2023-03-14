@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstProject</string>
+    <string name="Hello">Привет</string>
+    <string name="Login">Войти в аккаунт</string>
+</resources>
